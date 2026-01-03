@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm BadBerake</h1>
 
 <h3 align="center">
-Senior QA Engineer @ Atoumisan
+Senior QA Engineer Atoumisan
 </h3>
 
 <p align="center">
