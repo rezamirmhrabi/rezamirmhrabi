@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a56db,100:0ea5e9&height=120&section=header&text=BadBerake&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+### 🛡️ Senior QA Engineer · Iran Hotel Online
 <img src="https://komarev.com/ghpvc/?username=BadBerake&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
@@ -8,7 +13,7 @@
 
 | | |
 |---|---|
-| 🏢 **Company** | Senior QA Engineer @ **Atoumisan** |
+| 🏢 **Company** | Senior QA Engineer @ **Iran Hotel Online** |
 | 🔍 **Specialization** | Software Quality Assurance |
 | 🧠 **Methodology** | SDLC · STLC · Defect Lifecycle |
 | 🐍 **Scripting** | Python for testing utilities & tooling |
@@ -81,7 +86,7 @@
 
 ```text
 ✦ Quality is engineered — not inspected after the fact
-✦ Testing starts with understanding requirements deeply  
+✦ Testing starts with understanding requirements deeply
 ✦ Bugs are symptoms — find the root cause, not just the fix
 ✦ Prevention is always more valuable than detection
 ✦ Collaboration with developers is the real quality gate
