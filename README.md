@@ -1,104 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a56db,100:0ea5e9&height=120&section=header&text=rezamirmhrabi&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0c2340,100:185FA5&height=130&section=header&text=rezamirmhrabi&fontSize=36&fontColor=38bdf8&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-### 🛡️ Senior QA Engineer · Iran Hotel Online
-<img src="https://komarev.com/ghpvc/?username=BadBerake&label=Profile%20Views&color=0e75b6&style=flat" />
+</div>
+
+```
+  ██████  ███████     ███████ ███    ██  ██████  ██ ███    ██ ███████ ███████ ██████
+ ██    ██ ██          ██      ████   ██ ██       ██ ████   ██ ██      ██      ██   ██
+ ██    ██ █████       █████   ██ ██  ██ ██   ███ ██ ██ ██  ██ █████   █████   ██████
+ ██ ▄▄ ██ ██          ██      ██  ██ ██ ██    ██ ██ ██  ██ ██ ██      ██      ██   ██
+  ██████  ███████     ███████ ██   ████  ██████  ██ ██   ████ ███████ ███████ ██   ██
+     ▀▀
+```
+
+<div align="center">
+
+**`Senior QA Engineer`** &nbsp;·&nbsp; **`Iran Hotel Online`** &nbsp;·&nbsp; **`Tehran, IR`**
+
+![](https://komarev.com/ghpvc/?username=BadBerake&label=profile+views&color=0369a1&style=flat-square)
+![](https://img.shields.io/badge/focus-Quality%20%26%20Stability-185FA5?style=flat-square)
+![](https://img.shields.io/badge/open%20to-QA%20Collaboration-0F6E56?style=flat-square)
 
 </div>
 
 ---
 
-## 🗂️ About Me
+## `$ whoami`
+
+Senior QA Engineer at **Iran Hotel Online**, focused on building quality into the SDLC — not patching it in after. I work across the full defect lifecycle, from requirement analysis to root cause reporting, with a growing interest in security-aware testing and test automation.
 
 | | |
 |---|---|
-| 🏢 **Company** | Senior QA Engineer @ **Iran Hotel Online** |
+| 🏢 **Company** | Iran Hotel Online |
 | 🔍 **Specialization** | Software Quality Assurance |
 | 🧠 **Methodology** | SDLC · STLC · Defect Lifecycle |
-| 🐍 **Scripting** | Python for testing utilities & tooling |
-| 🔐 **Interest** | Security-aware testing & system behavior |
-| 📈 **Goal** | Product quality, stability, and user trust |
+| 🐍 **Scripting** | Python for testing utilities & automation |
+| 🔐 **Interest** | Security-aware testing & system behavior analysis |
+| 📈 **Goal** | Product quality, release stability, and user trust |
 
 ---
 
-## 🛠️ QA Skill Set
+## `$ cat skills.json`
 
-### 🧪 Testing Types
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-0369a1?style=flat-square)
-![Regression Testing](https://img.shields.io/badge/Regression%20Testing-475569?style=flat-square)
-![Smoke Testing](https://img.shields.io/badge/Smoke%20Testing-15803d?style=flat-square)
-![Exploratory Testing](https://img.shields.io/badge/Exploratory%20Testing-92400e?style=flat-square)
-![Sanity Testing](https://img.shields.io/badge/Sanity%20Testing-7c3aed?style=flat-square)
-
-### 📋 QA Practices
-![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-15803d?style=flat-square)
-![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-be123c?style=flat-square)
-![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-7c3aed?style=flat-square)
-![Requirement Analysis](https://img.shields.io/badge/Requirement%20Analysis-475569?style=flat-square)
-![Test Planning](https://img.shields.io/badge/Test%20Planning-92400e?style=flat-square)
-
-### ⚙️ Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-1e293b?style=flat-square&logo=gnometerminal&logoColor=white)
-![API Testing](https://img.shields.io/badge/API%20Testing-7c3aed?style=flat-square)
-
-### 🐍 Scripting & Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell%20Scripting-15803d?style=flat-square&logo=gnubash&logoColor=white)
-![Test Automation](https://img.shields.io/badge/Test%20Automation%20Concepts-7c3aed?style=flat-square)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rezamirmhrabi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamirmhrabi&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rezamirmhrabi&theme=tokyonight&hide_border=true" width="55%"/>
-
-</div>
-
----
-
-## 🚀 Pinned Projects
-
-<div align="center">
-
-[![Educational Python Scripts](https://github-readme-stats.vercel.app/api/pin/?username=rezamirmhrabi&repo=Educational-Python-Scripts&theme=tokyonight&hide_border=true)](https://github.com/BadBerake)
-[![HT-WPS-Breaker](https://github-readme-stats.vercel.app/api/pin/?username=rezamirmhrabi&repo=HT-WPS-Breaker&theme=tokyonight&hide_border=true)](https://github.com/rezamirmhrabi)
-
-</div>
-
-> 📌 Pin your most relevant repositories directly from your GitHub profile to reinforce your QA identity.
-
----
-
-## 🧠 QA Mindset
-
-```text
-✦ Quality is engineered — not inspected after the fact
-✦ Testing starts with understanding requirements deeply
-✦ Bugs are symptoms — find the root cause, not just the fix
-✦ Prevention is always more valuable than detection
-✦ Collaboration with developers is the real quality gate
+```json
+{
+  "testing": [
+    "Manual Testing", "Regression Testing", "Smoke Testing",
+    "Exploratory Testing", "Sanity Testing", "API Testing"
+  ],
+  "practices": [
+    "Test Case Design", "Bug Reporting", "Root Cause Analysis",
+    "Requirement Analysis", "Test Planning", "Defect Lifecycle"
+  ],
+  "tools": ["Postman", "Git", "Linux", "CLI", "Jira-style tracking"],
+  "scripting": ["Python", "Shell Scripting", "Test Automation Concepts"]
+}
 ```
 
 ---
 
-## 📫 Connect With Me
+## `$ run proficiency --bar`
+
+```
+Manual Testing      ████████████████████░░  95%
+API Testing         ██████████████████░░░░  88%
+Bug Reporting       █████████████████░░░░░  85%
+Test Case Design    █████████████████░░░░░  83%
+Python Scripting    ███████████████░░░░░░░  72%
+Test Automation     ████████████░░░░░░░░░░  60%
+```
+
+---
+
+## `$ ls -la ./projects`
+
+### 🔓 Public
+
+| Repo | Description | Stack |
+|------|-------------|-------|
+| [`Educational-Python-Scripts`](https://github.com/rezamirmhrabi/Educational-Python-Scripts) | Python utilities and scripts for QA tooling & learning | `Python` |
+| [`HT-WPS-Breaker`](https://github.com/rezamirmhrabi/HT-WPS-Breaker) | WPS vulnerability research tool — security-aware testing | `Python` `Security` |
+
+---
+
+## `$ git log --stat`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-rezamirmhrabi-181717?style=flat-square&logo=github)](https://github.com/BadBerake)
+<img src="https://github-readme-stats.vercel.app/api?username=rezamirmhrabi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamirmhrabi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="40%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rezamirmhrabi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="55%"/>
+
+</div>
+
+---
+
+## `$ cat qa_philosophy.txt`
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ✦  Quality is engineered — not inspected after the fact    ║
+║  ✦  Testing starts with understanding requirements deeply   ║
+║  ✦  Bugs are symptoms — find the root cause, not the fix   ║
+║  ✦  Prevention is always more valuable than detection       ║
+║  ✦  Collaboration with developers is the real quality gate  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `$ ping connect`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-rezamirmhrabi-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=1e293b)](https://github.com/BadBerake)
 
 </div>
 
@@ -106,8 +126,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1a56db&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:0d1117&height=80&section=footer" width="100%"/>
 
-*"Quality is not an act — it is a habit."*
+*`"Quality is not an act — it is a habit."`*
 
 </div>
