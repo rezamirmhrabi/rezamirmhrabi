@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a56db,100:0ea5e9&height=120&section=header&text=BadBerake&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a56db,100:0ea5e9&height=120&section=header&text=rezamirmhrabi&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 ### 🛡️ Senior QA Engineer · Iran Hotel Online
 <img src="https://komarev.com/ghpvc/?username=BadBerake&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -56,14 +56,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BadBerake&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadBerake&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rezamirmhrabi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamirmhrabi&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BadBerake&theme=tokyonight&hide_border=true" width="55%"/>
+<img src="https://streak-stats.demolab.com?user=rezamirmhrabi&theme=tokyonight&hide_border=true" width="55%"/>
 
 </div>
 
@@ -73,8 +73,8 @@
 
 <div align="center">
 
-[![Educational Python Scripts](https://github-readme-stats.vercel.app/api/pin/?username=BadBerake&repo=Educational-Python-Scripts&theme=tokyonight&hide_border=true)](https://github.com/BadBerake)
-[![HT-WPS-Breaker](https://github-readme-stats.vercel.app/api/pin/?username=BadBerake&repo=HT-WPS-Breaker&theme=tokyonight&hide_border=true)](https://github.com/BadBerake)
+[![Educational Python Scripts](https://github-readme-stats.vercel.app/api/pin/?username=rezamirmhrabi&repo=Educational-Python-Scripts&theme=tokyonight&hide_border=true)](https://github.com/BadBerake)
+[![HT-WPS-Breaker](https://github-readme-stats.vercel.app/api/pin/?username=rezamirmhrabi&repo=HT-WPS-Breaker&theme=tokyonight&hide_border=true)](https://github.com/rezamirmhrabi)
 
 </div>
 
@@ -98,7 +98,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-BadBerake-181717?style=flat-square&logo=github)](https://github.com/BadBerake)
+[![GitHub](https://img.shields.io/badge/GitHub-rezamirmhrabi-181717?style=flat-square&logo=github)](https://github.com/BadBerake)
 
 </div>
 
